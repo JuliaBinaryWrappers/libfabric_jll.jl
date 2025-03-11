@@ -1,0 +1,144 @@
+[[libfabric]]
+arch = "aarch64"
+git-tree-sha1 = "db4ea3a30cce185325f72aa5a3588a2843f7bd66"
+os = "macos"
+
+    [[libfabric.download]]
+    sha256 = "946708240498df9f7f6527a060fcc4851534d3e7940ba315fdf3cead9defbfc4"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.aarch64-apple-darwin.tar.gz"
+[[libfabric]]
+arch = "aarch64"
+git-tree-sha1 = "4cdec5af6514a4ccaced22e331bf9d2e05d51c7f"
+libc = "glibc"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "ac4fe647b3fd1385e28984f85b68ebc6ec25ac2bf1291b77fa8c284714aa6bbe"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.aarch64-linux-gnu.tar.gz"
+[[libfabric]]
+arch = "aarch64"
+git-tree-sha1 = "f0dc84be3c246ef4aeb59b5567369cd71b625b0f"
+libc = "musl"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "5dbf53b354cb50de843b66519e53600e204a8b1c04f0702477def0eaf5eda4e0"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.aarch64-linux-musl.tar.gz"
+[[libfabric]]
+arch = "aarch64"
+git-tree-sha1 = "e6fbe3a5848f23272e81230d6cfc58cb2c6d8af0"
+os = "freebsd"
+
+    [[libfabric.download]]
+    sha256 = "a64b62ecc823a72bcb3f7fbbe817e349f65287e9d839be2fccc58f2c2fd6069b"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.aarch64-unknown-freebsd.tar.gz"
+[[libfabric]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cb353d131d1ac7061b1a59c0eb61841cd7b0e258"
+libc = "glibc"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "5cdc04a97f809e2ca14341e846253cfb63eb4dc2b2c23a3610e6c014e9dffd20"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.armv6l-linux-gnueabihf.tar.gz"
+[[libfabric]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6bc15cc12fa42a8a2bb99337a59884f4d8c84d77"
+libc = "musl"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "b47229d16ec8123c025b773e6abbe9c8e355f08b6ed753180ffe8aadf8b366a3"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.armv6l-linux-musleabihf.tar.gz"
+[[libfabric]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9edc49944b022de931d8621c0343adab6db5bdf2"
+libc = "glibc"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "3f76f0a447a696ee6cdb130c8f44f8e625fe8fa9daabd7fea0f60cdc2606e2f8"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.armv7l-linux-gnueabihf.tar.gz"
+[[libfabric]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ff9e7588a8692c3ea7d351ebc6000063bf27ccf0"
+libc = "musl"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "2a742a0ab654730ca335e2a2c7ee92e45d88afcd520b7199f8d2fb6280644f01"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.armv7l-linux-musleabihf.tar.gz"
+[[libfabric]]
+arch = "i686"
+git-tree-sha1 = "f7e25a411810ba5734c281925a02271ee106d9b6"
+libc = "glibc"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "55978398a5287323565154b1b98e35b4f5bdc1f809e70084b67265e82ea35981"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.i686-linux-gnu.tar.gz"
+[[libfabric]]
+arch = "i686"
+git-tree-sha1 = "1230ebb1cac9ec7658aa1a5c5a901c6407250198"
+libc = "musl"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "5a9d0f001b8425f0cc1624f7ee67c90e5bc113de8d47b7e53ae4551bfb6f587e"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.i686-linux-musl.tar.gz"
+[[libfabric]]
+arch = "powerpc64le"
+git-tree-sha1 = "d596254f278bee769f06e1289c4829222666baff"
+libc = "glibc"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "4b09223b77d23f364eeec08314f606d2f351d72c67b2c895a1a3c5d21be92c4a"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.powerpc64le-linux-gnu.tar.gz"
+[[libfabric]]
+arch = "riscv64"
+git-tree-sha1 = "1b6671cd169e243a6c721a6b5464a14708188ee4"
+libc = "glibc"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "3a7ee5411c79247aa4574756eaf2e20e773a8d1e0f7990ae5dfaeb9b834d2930"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.riscv64-linux-gnu.tar.gz"
+[[libfabric]]
+arch = "x86_64"
+git-tree-sha1 = "67a806b9578101817ee6776d8009d6e203773423"
+os = "macos"
+
+    [[libfabric.download]]
+    sha256 = "0575035ea56a1973a1509179223d3b26137c337512dae813e8218609379f46e2"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.x86_64-apple-darwin.tar.gz"
+[[libfabric]]
+arch = "x86_64"
+git-tree-sha1 = "ee0f9b620ac3f3be83b23db883d17231daa7b940"
+libc = "glibc"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "ab1dd210337046793c7d8e52fcfa23282c899a207c12728f0de27e494a1b35a2"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.x86_64-linux-gnu.tar.gz"
+[[libfabric]]
+arch = "x86_64"
+git-tree-sha1 = "1b180c193b970b0f36ed820dbe76c8a258e97c20"
+libc = "musl"
+os = "linux"
+
+    [[libfabric.download]]
+    sha256 = "6d2f9d02330124373e37eff1f274cff19216462bcd0b99484f2971eacfddaeee"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.x86_64-linux-musl.tar.gz"
+[[libfabric]]
+arch = "x86_64"
+git-tree-sha1 = "5f9e6c17efe501a0a714f021455f25e2e30b03cb"
+os = "freebsd"
+
+    [[libfabric.download]]
+    sha256 = "7a2a57579b2c9fb9fdb4e0f7d438248a2e87523875ac0bdae8279a73193f443f"
+    url = "https://github.com/JuliaBinaryWrappers/libfabric_jll.jl/releases/download/libfabric-v1.22.0+0/libfabric.v1.22.0.x86_64-unknown-freebsd.tar.gz"
